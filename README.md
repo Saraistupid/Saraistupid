@@ -1,14 +1,15 @@
-Hello! I'm Sara, I'm a teenager from Egypt 🇪🇬 who's interested in multiple stuff, mainly Linux and games related.
+Hello! I'm Sara, I'm a teenager from Egypt 🇪🇬 who's interested in multiple stuff, mainly Music and random things.
 
-Currently trying to learn Java ☕ and Kotlin 🇰
+Java's and Kotlin's biggest simp (hasn't used either in over 5 years)
 
 ### Socials
+- [Telegram](https://t.me/Saraistupid)
 - [Spacehey](https://spacehey.com/saraistupid)
 - [Twitter](https://twitter.com/Saraistupid)
-- [Youtube](https://www.youtube.com/@saraistupid5948)
-- Discord: Saraistupid#5127
+- [Youtube](https://www.youtube.com/@saraistupid)
+- Discord: Saraistupid
 
-   [![Discord Presence](https://lanyard.cnrad.dev/api/862451206421086269)](https://discord.com/users/862451206421086269)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1213187599800344586)](https://discord.com/users/1213187599800344586)
 
 ### Stats
 
@@ -18,10 +19,10 @@ Currently trying to learn Java ☕ and Kotlin 🇰
 
 
 
-<!---~~The website seems to be dead~~ well it works again--->
+<!---~~The website seems to be dead~~ ~~well it works again~~ it's dead again lole--->
 
 ### Vists
-![Profile views](https://gpvc.arturio.dev/Saraistupid)
+<!---![Profile views](https://gpvc.arturio.dev/Saraistupid)---> 
 
 <p align="center">
    <img src="https://count.getloli.com/get/@Saraistupid" alt=":name" />          
