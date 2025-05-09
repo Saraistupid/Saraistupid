@@ -4,12 +4,9 @@ Java's and Kotlin's biggest simp (hasn't used either in over 5 years)
 
 ### Socials
 - [Telegram](https://t.me/Saraistupid)
-- [Spacehey](https://spacehey.com/saraistupid)
-- [Twitter](https://twitter.com/Saraistupid)
+- [Twitter](https://twitter.com/trooncore)
 - [Youtube](https://www.youtube.com/@saraistupid)
-- Discord: Saraistupid
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1213187599800344586)](https://discord.com/users/1213187599800344586)
 
 ### Stats
 
